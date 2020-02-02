@@ -14,6 +14,7 @@
 ## Lista de cambios
 
 - 1.0.0 - Primer versión del código de conducta
+- 1.0.1 - Revisión del código de conducta, se mejoró la redacción
 
 ## Introducción
 
