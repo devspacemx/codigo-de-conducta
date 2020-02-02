@@ -9,7 +9,7 @@
 [![twitter](https://img.shields.io/twitter/follow/devspacemx?label=Twitter&style=flat&logo=twitter)](https://twitter.com/devspacemx)
 [![Discord](https://img.shields.io/discord/635852899066314753?label=Discord&style=flat&logo=discord)](https://discordapp.com/invite/sJ7b9Mr)
 
-> 📣 Este es el código de conducta de la comunidad DevSpace, esperamos que cada una de las personas trate de adherirse a los lineamientos y comportamientos a esperar definidos en este documento, todo esto con el fin de lograr una convivencia sana para así reflejar el objetivo y significado de la comunidad. Esperamos la cooperación de cada una de las personas que se identifiquen como miembros de la comunidad.
+> 📣 Código de conducta de la comunidad DevSpace: Se espera que cada una de las personas miembros de esta comunidad se apegue e a los lineamientos y comportamientos definidos en este documento, con el fin de lograr una convivencia sana y productiva entre todos los integrantes.
 
 ## Lista de cambios
 
@@ -17,14 +17,13 @@
 
 ## Introducción
 
-En DevSpace queremos exista un ambiente libre de malas experiencias, no toleramos ningún tipo de maltrato entre los miembros de la comunidad.
-Te pedimos seas considerado y te dirijas con respeto hacia los demás participantes y miembros.
+En DevSpace se fomenta un ambiente libre de malas experiencias, no se tolera ningún tipo de maltrato entre los miembros de la comunidad. Por lo que se solicita ser considerado y respetuoso con las personas y sus opiniones.
 
-Esta normativa se aplica igualmente a cualquier tipo de comportamiento inaceptable que pueda ocurrir fuera del ámbito de las actividades de nuestra comunidad, en todos los espacios comunes -online y en persona-, así como en la comunicación uno a uno, y en cualquier contexto ya que ese es un comportamiento que puede afectar desfavorablemente a la seguridad y el bienestar de los miembros de la comunidad de DevSpace.
+Esta normativa se aplica igualmente a cualquier tipo de comportamiento dentro y fuera del ámbito de las actividades de nuestra comunidad, en todos los espacios comunes -online y en persona-, así como en la comunicación uno a uno, y en cualquier contexto. Ya que la conducta irrespetuosa afecta desfavorablemente a la seguridad y el bienestar de los miembros de la comunidad de DevSpace.
 
-La diversidad y la integración refuerzan a la comunidad de DevSpace. Potenciamos la participación de la procedencia más variada y diversa posible y queremos ser claros con nuestra posición.
+La diversidad y la integración refuerzan a la comunidad de DevSpace. Por lo que en este grupo se respeta y acepta a cualquier persona sin importar diferencia alguna.
 
-Nuestro objetivo es preservar una comunidad segura y amable para todo el mundo, con independencia de la experiencia, expresión e identidad de género, orientación sexual, discapacidad, apariencia física, talla corporal, raza, etnia, edad, religión, nacionalidad o cualquier otra categoría.
+Nuestro objetivo es preservar una comunidad segura y amable para todo el mundo, sin hace diferencias por identidad de género, orientación sexual, discapacidad, apariencia física, talla corporal, raza, etnia, edad, religión, nacionalidad o cualquier otra categoría.
 
 ## Comportamiento a esperar
 
